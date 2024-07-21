@@ -12,3 +12,6 @@ npm install nativewind
 npm install --save-dev tailwindcss@3.3.2
 npx tailwindcss init
 
+npm install @rneui/themed @rneui/base
+npm install react-native-vector-icons
+npm install react-native-safe-area-context
